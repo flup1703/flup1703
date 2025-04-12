@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @flup1703<br>👀 I am interested in interface development and website layout<br>🌱 I am currently studying to be a frontend developer
+👋 Hi, I’m @flup1703<br>👀 I am interested in interface development and website layout<br>
 
 
 # 💻 Tech Stack:
