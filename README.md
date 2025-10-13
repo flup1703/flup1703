@@ -1,7 +1,7 @@
 ![](https://github.com/flup1703/flup1703/blob/main/hello.svg)
 # 💫 About Me:
 <br>👀 I am interested in interface development and website layout<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flup1703&repo=my-portfolio&show_owner=true&theme=ambient_gradient)](https://github.com/flup1703/my-portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flup1703&repo=my-portfolio&show_owner=true&bg_color=47e67496&border_color=000000&text_color=f7f5f5&title_color=f7f5f5&border_radius=25)](https://github.com/flup1703/my-portfolio)
 
 
 # 💻 Tech Stack:
