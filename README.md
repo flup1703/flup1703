@@ -1,4 +1,4 @@
-![Hello](https://github.com/flup1703/flup1703/blob/main/hello.svg)
+![Hello](https://github.com/flup1703/flup1703/blob/main/hello.svg?sanitize=true)
 
 ## 💫 About: 
 ![About](https://github.com/flup1703/flup1703/blob/main/about.svg)
